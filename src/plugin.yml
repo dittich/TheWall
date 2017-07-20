@@ -1,0 +1,10 @@
+name: TheWall
+version: 0.0.1
+main: de.dittich.TheWall.TheWall
+commands:
+  test:
+    usage: /test <player>
+    description: Testet das Plugin auf Funktionsfaehigkeit
+description: Neues Plugin fuer Minecraft Minigame TheWall
+author: Dittich
+website: http://www.dittich.de
